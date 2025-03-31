@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-list{
+    list-style: none;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.nav-item{
+    cursor: pointer;
+    margin-right: 25px;
+}
+
+.nav-item:hover{
+    color: #FFFFFF;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.nav-item a:hover{
+    color: rgb(221 169 172);
+}
+
+.nav-item a:focus{
+    color: rgb(221 169 172);
+}
+
+
+

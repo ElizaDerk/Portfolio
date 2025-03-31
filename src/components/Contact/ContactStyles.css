@@ -1,0 +1,17 @@
+.contacts{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contact-item{
+    list-style: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.contact-link img{
+    background: #FFFFFF;
+    border-radius: 25%;
+    padding: 3px;
+}
