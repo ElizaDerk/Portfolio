@@ -1,4 +1,3 @@
-import image from "../components/img/me.PNG";
 
 const Skills = () =>{
     return (

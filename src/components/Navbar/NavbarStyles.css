@@ -1,7 +1,18 @@
 .nav{
+    padding: 30px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #0e1624;
+    z-index: 1;
+}
+
+.nav-items{
+    width: 1340px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    margin: 0px auto;
 }
 
 .nav-list{
@@ -12,6 +23,7 @@
     line-height: 45px;
     display: flex;
     flex-direction: row;
+    padding-left: 0;
 
 }
 

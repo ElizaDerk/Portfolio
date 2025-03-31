@@ -6,6 +6,9 @@ const About = () =>{
                 <p className="title-text center">ABOUT ME</p>
             </div>
             <div className="container-about">
+                <div>
+                    <img src={image} className="about-img" alt="photo"/>
+                </div>
                 <div className="about-block">
                     <p className="text">
                         I am persistent in achieving the goals, good with multitasking and communications.
@@ -18,9 +21,7 @@ const About = () =>{
                         I am open for new opportunities as a Front End Developer!
                     </p>
                 </div>
-                <div>
-                    <img src={image} className="about-img" alt="photo"/>
-                </div>
+
             </div>
 
         </div>
