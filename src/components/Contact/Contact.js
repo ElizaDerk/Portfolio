@@ -14,7 +14,7 @@ const Contact = () => {
                 </a>
             </li>
             <li className="contact-item">
-                <a className="contact-link" href="https://linkedin.com/in/elizavetaderkacheva">
+                <a className="contact-link" href="https://www.linkedin.com/in/elizasafronova/">
                     <img src={LinkIcon} alt="icon"/>
                 </a>
             </li>

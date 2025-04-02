@@ -11,14 +11,12 @@ const About = () =>{
                 </div>
                 <div className="about-block">
                     <p className="text">
-                        I am persistent in achieving the goals, good with multitasking and communications.
-                        I have organizational skills, and demanding to myself. I plan my work routine and I am stress resistant.
-                        Love to work with information and respect the punctuality.
+                        I am a detail-oriented and creative Frontend Developer with a strong passion for crafting intuitive, high-performance web applications. My expertise spans modern frontend technologies like Blazor, React.js, and JavaScript, with a deep understanding of UI/UX principles, API integration, and performance optimization. I thrive on solving complex challenges and delivering pixel-perfect, responsive designs that enhance user experience.
                     </p>
+
+                    <h2 className="title_h2">Why Work With Me?</h2>
                     <p className="text">
-                        I practice developing nearby a year. During this year I mastered HTML&CS and JS.
-                        Also I practice React JS and I want to work with it in a future.
-                        I am open for new opportunities as a Front End Developer!
+                    I believe that a great digital experience is built on a combination of aesthetics, functionality, and performance. My background in both frontend development and UI/UX design allows me to bridge the gap between visual appeal and technical efficiency. Whether it's developing a robust Blazor-based application, optimizing a React.js project, or designing a seamless WIX website, I bring precision, creativity, and technical excellence to every project.
                     </p>
                 </div>
 

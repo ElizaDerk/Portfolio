@@ -6,25 +6,33 @@ const projects = [
         id: 1,
         title: "Help for animals in Ukraine",
         description: "This project is for volunteers from the city of Kharkiv, who helped to evacuate/feed/treat pets that were left without a home/owners.",
-        tools: ["React"],
+        tools: ["React.js"],
         link: "https://elizaderk.github.io/AnimalHelp/",
         img: "https://i.postimg.cc/kGLYqtzY/Animal.png"
     },
     {
         id: 2,
-        title: "Perfect Day",
+        title: "Landing Page SovaPrint",
         description: "",
-        tools: ["HTML", "CSS", "JavaScript"],
-        link: "https://elizaderk.github.io/PerfectDay/",
-        img: "https://i.postimg.cc/rpzFzDpC/Perfect-Day.png"
+        tools: ["React.js"],
+        link: "https://elizaderk.github.io/landingPage_Elena/",
+        img: "https://i.postimg.cc/rpqy6pR9/Sova-Print.png"
     },
     {
         id: 3,
-        title: "FilmSearcher",
+        title: "Landing Page InteriorDesign",
         description: "",
-        tools: ["React", "Redux"],
-        link: "https://elizaderk.github.io/FilmSearcher/",
-        img: "https://i.postimg.cc/tJgYdBqw/film.png"
+        tools: ["HTML", "CSS", "JS"],
+        link: "https://elizaderk.github.io/Landing_InteriorDesign/",
+        img: "https://i.postimg.cc/Kzrs6ZLt/2025-04-02-18-29-47.png"
+    },
+    {
+        id: 4,
+        title: "Landing Page California Camp",
+        description: "",
+        tools: ["WIX platform"],
+        link: "https://www.californiafencingcamp.com/",
+        img: "https://i.postimg.cc/zGhmdYdF/2025-04-02-18-34-04.png"
     }
 ];
 

@@ -23,7 +23,9 @@ const Home = () =>{
                 <Projects />
             </div>
             <div>
-                <Contact />
+            {/* Email: elizaveta.derk@gmail.com
+            LinkedIn: linkedin.com/in/elizasafronova
+            GitHub: github.com/ElizaDerk */}
             </div>
         </div>
 
